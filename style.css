@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,100&display=swap');
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.Dee{
+    background-color: azure;
+}
+
+nav > a{
+text-transform: uppercase;
+    font-weight: bolder;
+    margin: 20px;
+    text-decoration: wavy;
+    padding: 10px;
+}
+nav > a:hover{color: coral;
+}
+header {background-color: aliceblue;}
+nav{
+    margin-left: 750px;
+}
+.Dee2{
+    background-color: rgb(89, 130, 0);}
